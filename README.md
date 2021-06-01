@@ -4,8 +4,8 @@
 <br>
 
 <h2 align="left">Hosted projects:</h2>
-<p align="left">Landing <a href="https://fitforchange.xyz/"><strong>page</strong></a> for Changes mobile app
-Django <a href="https://eventrackers.pythonanywhere.com"><strong>app</strong></a> for generating QR code and logging people in!</p>
+<p align="left">Landing <a href="https://fitforchange.xyz/"><strong>page</strong></a> for Changes mobile app</p>
+<p align="left">Django <a href="https://eventrackers.pythonanywhere.com"><strong>app</strong></a> for generating QR code and logging people in!</p>
 
 <br><br>
 
