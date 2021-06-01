@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hakimi</h1>
+<h1 align="center">Hi 👋, call me Kimi (pronounced: Key Me)</h1>
 <h5 align="center">Currently learning Android + Kotlin to produce some great app</h5>
 
 <br><br>
