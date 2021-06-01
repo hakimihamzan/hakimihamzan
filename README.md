@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hakimi</h1>
 <h3 align="center">A self taught developer from Malaysia</h3>
 
+<h1></h1>
+
 - 🌱 I’m currently learning **Android + Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hakimihamzan](https://github.com/hakimihamzan)
-
-- 📫 How to reach me **hakimihamzan20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
