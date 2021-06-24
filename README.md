@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, call me Kimi (pronounced: Key Me)</h1>
-<h3 align="center">Currently learning Android Dev + Kotlin to produce some great app</h3>
+<h3 align="center">Currently learning c#|asp.Net to produce some great app</h3>
 
 <br><br>
 
