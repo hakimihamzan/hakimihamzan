@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, call me Kimi (pronounced: Key Me)</h1>
-<h3 align="center">Currently learning c# and asp.Net to produce something great</h3>
+<h3 align="center">Currently at GA bootcamp learning JavaScript</h3>
 
 <br><br>
 
