@@ -11,7 +11,7 @@
 
 <br><br>
 
-[![Kimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakimihamzan)](https://github.com/hakimihamzan/github-readme-stats)
+[![Kimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakimihamzan&count_private=true)](https://github.com/hakimihamzan/github-readme-stats)
 
 <br><br>
 <h2 align="left">Tools I played around with:</h2>
